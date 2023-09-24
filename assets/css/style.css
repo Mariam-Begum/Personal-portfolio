@@ -1,0 +1,308 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+:root{
+	font-family: 'Kanit', sans-serif;
+}
+.fixed-top{
+	background: #fff;
+}
+.navbar-brand{
+	font-Weight: 700;
+	font-Size: 34px;
+	Line-Height: 51px;
+	Color: #8e43e7;
+	margin-right: 60px;
+	margin-left: 55px;
+}
+.nav  a{
+	font-Weight: 700;
+	font-Size: 19px;
+	Color: #696969 !important;
+	Line-Height: 29px;
+	justify-content: end !important;
+	transition: .5s linear;
+	
+}
+.nav  a:hover{
+	color: #8e43e7 !important;
+}
+/* banner section start*/
+.banner{
+	background: #f9f7fe;
+}
+.banner  h6{
+	font-weight: 700;
+	font-Size: 18px;
+	Line-Height: 36px;
+	Color: #8c89a2;
+}
+.banner  h1 span{
+	font-weight: 300;
+	font-Size: 48px;
+	Line-Height: 58px;
+	Color: #3f3a64;
+}
+.banner  h1{
+	font-weight: 700;
+	font-Size: 48px;
+	Line-Height: 58px;
+	Color: #3f3a64;
+	margin: 20px 0px;
+}
+.banner  p{
+	font-weight: 400;
+	font-Size: 19px;
+	Line-Height: 28px;
+	Color: #696969;
+	margin: 30px 0px;
+}
+.banner  .btn{
+	padding: 15px 35px;
+	font-weight: 400;
+	font-Size: 19px;
+	Line-Height: 28px;
+	margin-top: 30px;
+	background: 7a21e3;
+}
+.banner img{
+	border-radius: 10px
+}
+/* banner section end*/
+/* about section start */
+.about-section  img{
+	border-radius: 10px;
+}
+.about-section  h5{
+	font-Weight: 600;
+	font-Size: 18px;
+	Line-Height: 36px;
+	Color: #8c89a2;
+}
+.about-section  h3{
+	font-Weight: 400;
+	font-Size: 40px;
+	Line-Height: 48px;
+	Color: #3f3a64;
+}
+.about-section  p{
+	font-Weight: 400;
+	font-Size: 19px;
+	Line-Height: 28px;
+	Color: #696969;
+	margin-bottom: 0px;
+}
+.about-section  .btn{
+	background: #7a21e3;
+	border: #fff;
+	padding: 5px 20px;
+}
+/* about section end */
+/* resume section start */
+.w3l-resume{
+	background: #f9f7fe;
+}
+.w3l-resume  h5{
+	font-Weight: 600;
+	font-Size: 18px;
+	Line-Height: 36px;
+	Color: #8c89a2;
+}
+.w3l-resume  h3{
+	font-Weight: 400;
+	font-Size: 40px;
+	Line-Height: 48px;
+	Color: #3f3a64;
+}
+.w3l-resume  p{
+	font-Weight: 400;
+	font-Size: 19px;
+	Line-Height: 28px;
+	Color: #696969;
+	margin-bottom: 0px;
+}
+.w3l-resume  .btn{
+	background: #7a21e3;
+	border: #fff;
+	padding: 10px 20px;
+}
+/* resume section end  */
+/* services section start */
+.services{
+	background: #fff;
+}
+.services h5{
+	font-Weight: 600;
+	font-Size: 18px;
+	Line-Height: 36px;
+	Color: #8c89a2;
+}
+.services h3{
+	font-Weight: 400;
+	font-Size: 40px;
+	Line-Height: 48px;
+	Color: #3f3a64;
+}
+/* carousel-item start */
+.carousel-inner{
+	background:  #f9f7fe;
+	padding: 50px 30px;
+	border-radius: 10px;
+}
+.carousel-item i{
+	font-Size: 30px;
+	Color: #8e43e7;
+}
+.carousel-item a{
+	font-Weight: 600;
+	font-Size: 24px;
+	Line-Height: 29px;
+	Color: #3f3a64;
+	text-decoration: none;
+	transition: .5s linear;
+}
+.carousel-item a:hover{
+	Color: #8e43e7 !important;
+}
+.carousel-item p{
+	font-Weight: 400;
+	font-Size: 19px;
+	Line-Height: 28px;
+	Color: #696969;
+}
+.carousel  button{
+	Color: #8e43e7;
+}
+.sample a{
+	font-Weight: 400;
+	font-Size: 21px;
+	Line-Height: 28px;
+	Color: #3f3a64;
+	text-decoration: none;
+}
+.sample a:hover{
+	Color: #8e43e7 !important;
+}
+/* carousel-item end */
+/* services section end */
+/* stats statsection start */
+.stats-section{
+	background: #f9f7fe;
+}
+.stats-section i{
+	font-Size: 40px;
+	Color: #8e43e7;
+}
+.stats-section p{
+	font-Weight: 600;
+	font-Size: 50px;
+	Line-Height: 60px;
+	Color: #3f3a64;
+	margin-top: 15px;
+}
+.stats-section h4{
+	font-Weight: 500;
+	font-Size: 20px;
+	Line-Height: 25px;
+	Color: #696969;
+}
+/* stats statsection end */
+/* Testimonials section start */
+.clients h6{
+	font-Weight: 600;
+	font-Size: 18px;
+	Line-Height: 36px;
+	Color: #8c89a2;
+}
+.clients h3{
+	font-Weight: 400;
+	font-Size: 40px;
+	Line-Height: 48px;
+	Color: #3f3a64;
+}
+.card{
+	background: #f9f7fe;
+	margin: auto,
+}
+.card p{
+	font-Weight: 400;
+	font-Size: 19px;
+	Line-Height: 28px;
+	Color: #696969;
+}
+.card i{
+	Color: #8e43e7;
+}
+.card img{
+	border-radius: 40%; 
+	height: 100px;
+}
+.address{
+	margin-left: 20px;
+}
+.address h3{
+	font-Weight: 600;
+	font-Size: 20px;
+	Line-Height: 24px;
+	Color: #3f3a64;
+}
+.address p{
+	font-Weight: 400;
+	font-Size: 17px;
+	Line-Height: 28px;
+	Color: #777777;
+}
+/* Testimonials section end */
+/* business sections start */
+.business-sections{
+	background: #f9f7fe;
+}
+.business-sections h3{
+	font-Weight: 600;
+	font-Size: 40px;
+	Line-Height: 48px;
+	Color: #3f3a64;
+}
+.business-sections p{
+	font-Weight: 400;
+	font-Size: 19px;
+	Line-Height: 28px;
+	Color: #696969;
+}
+/* business sections end */
+/* project sections start*/
+.project-sections h3{
+	font-Weight: 400;
+	font-Size: 40px;
+	Line-Height: 48px;
+	Color: #3f3a64;
+}
+.project-sections h6{
+	font-Weight: 600;
+	font-Size: 18px;
+	Line-Height: 36px;
+	Color: #8c89a2;
+}
+.project-sections .btn{
+	padding: 10px 20px;
+	font-Weight: 400;
+	font-Size: 18px;
+	Line-Height: 28px;
+}
+/* project sections end*/
+/* footer section start */
+.footer-left p{
+	font-Weight: 400;
+	font-Size: 19px;
+	Line-Height: 28px;
+	Color: #696969;
+}
+.footer-left p a{
+	text-decoration: none;
+	color: #7b19c4;
+}
+.footer-right .list-item{
+	font-Size: 19px;
+	text-align: right;
+	margin: 0px 40px;
+	Color: #8c89a2;
+}
+/* footer section end */
